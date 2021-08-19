@@ -10,11 +10,12 @@
 ### Setup
 -	`yarn install`
 -	create .env file
-	-	`
-ORIGIN=https://app.redash.io/${your organization}
-ORIGIN_API_KEY=${get from https://app.redash.io/${your organization}/users/me}
+```
+ORIGIN=https://app.redash.io/${organization}
+ORIGIN_API_KEY=${get from https://app.redash.io/${organization}/users/me}
 DESTINATION=${your hosted target}
-DESTINATION_API_KEY=${your target api key}`
+DESTINATION_API_KEY=${your target api key}
+```
 
 
 ### Migration

@@ -2,5 +2,11 @@
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^10.0.0"
-  }
+  },
+  "name": "redash-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:drivehub/redash-migration.git",
+  "author": "Kitnipan <kitnipan@drivehub.co>",
+  "license": "MIT"
 }
